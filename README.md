@@ -2,13 +2,18 @@
 
 Jan 2023 - 
 
-Dec 2022 - Another init using Ethereum blockchain. This go around, the idea was to use Quorum ethereum client rather than the native geth flavor. Any new learnings from using a different client as well experimenting with the privacy features unique to Quorum was the basic argument to use Quorum.  Became aware of QBFT, IBFT consensus protocols.
+Dec 2022 - New init using Ethereum blockchain. 
+         - This go around, the idea was to use Quorum ethereum client rather than the native geth flavor. 
+         - Any new learnings from using a different client as well experimenting with the privacy features unique to Quorum was the basic argument to 
+           use Quorum.
+         - Became aware of QBFT, IBFT consensus protocols.
+         - Public contracts and private contracts
 
 Nov 2022 - Research on various blockchain services out in the market. IBM managed blockchain, Oracle Blockchain platform, AWS Amazon Managed blockchian, Moralis, Azure, QBS ( Quoroum Blockchain service )
 
 Oct 2022 - Research and come up with/ contribute to Blockchain Reference Architectures discussion.
 
-Sep 2022 - 
+Sep 2022 - Awareness of various types Tokens ( Fungible, Non-Fungible, Semi-Fungible) and the standards governing these tokens. ERC-20, ERC-721, ERC-1155.
 
 Aug 2022 - Decentraland POC. Dabbled in ethereum contracts. Used Remix-IDE
 
@@ -20,7 +25,9 @@ May 2002 -
 
 Apr 2022 - 
 
-Mar 2022 - Setup a private Ethereum blockchain of 4 validator nodes including a node configured with Epirus as a block explorer to view metrics and other data.
+Mar 2022 - Setup a private Ethereum blockchain of 4 validator nodes including a node configured with Epirus as a block explorer to view metrics and 
+           other data.
+           - Truffle development enviroment.
 
 Feb 2022 - Experimented using docker containers instead of native binaries to setup geth nodes.
 
